@@ -23,7 +23,6 @@ build/
 # Data
 *.csv
 *.xlsx
-data/
 
 # Results
 results/
